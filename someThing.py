@@ -1,0 +1,1 @@
+print("CCCCche gg Ind iaCC CC".strip("C").split(" ",2))
